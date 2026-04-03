@@ -10,8 +10,9 @@ I also like osu!, both for the game itself and for what it can inspire around it
 ## Favorite projects
 - **Osurea** — visualize and comment on tablet areas
 - **Nectar Render** — convert Markdown into PDF/HTML with live preview
-- **skins-osu** — collect and showcase my osu! skins
 - **Yuzuhub** — centralize my socials, accounts, and projects
+- **skins-osu** — collect and showcase my osu! skins
+
 
 ## Stack
 JavaScript · TypeScript · Python · HTML · CSS
