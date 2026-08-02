@@ -21,6 +21,5 @@ JavaScript · TypeScript · Python · HTML · CSS
 Discord **@yuzuctus**  
 [X](https://x.com/Yuzuctus) ·
 [GitHub](https://github.com/Yuzuctus) ·
-[Twitch](https://www.twitch.tv/yuzuctus) ·
-[YouTube](https://www.youtube.com/@Yuzuctus) ·
-[TikTok](https://www.tiktok.com/@yuzuctus)
+
+
