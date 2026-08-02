@@ -20,6 +20,6 @@ JavaScript · TypeScript · Python · HTML · CSS
 ## Contact
 Discord **@yuzuctus**  
 [X](https://x.com/Yuzuctus) ·
-[GitHub](https://github.com/Yuzuctus) ·
+[GitHub](https://github.com/Yuzuctus)
 
 
